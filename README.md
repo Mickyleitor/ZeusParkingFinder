@@ -3,7 +3,7 @@
 ## Motivación
 
 A la hora de encontrar aparcamiento en la vía pública en un lugar transitado puede ser tedioso, yo mismo he llegado a estar hasta 45 minutos intentando buscar sitio. 
-Si, claro, hay dispositivos que te indican cuantos sitios hay libres antes de entrar por una calle pero el sistema tiene una fiabilidad del 70%, al menos en mi zona se suele cumplir ese porcentaje. El sistema de detección se basa en sensores de aproximación (e incluso en algunos lugares de luz), probablemente ultra sonidos.
+Si, claro, hay dispositivos que te indican cuantos sitios hay libres antes de entrar por una calle pero el sistema no tiene una muy buena fiabilidad, al menos en mi zona se suele cumplir ese porcentaje. El sistema de detección se basa en sensores de aproximación (e incluso en algunos lugares de luz).
 
 Pero, ¿Que ocurre si dos vehículos estacionan de manera que justo coloquen el espacio que los separa encima del sensor? Pues que el sistema indica que hay un aparcamiento libre, cosa que no es cierta.
 
